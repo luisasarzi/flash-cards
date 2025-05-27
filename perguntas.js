@@ -7,32 +7,32 @@ criaCartao(
 
 criaCartao(
     'Língua Portuguesa',
-    '  Metáfora',
+    '  O que é Metáfora?',
     'Comparação implícita, sem o uso de "como".'
 )
 
 criaCartao(
     'Língua Portuguesa',
-    '  Metonímia',
+    '  O que é Metonímia?',
     'Substituição de uma palavra por outra com relação de proximidade.'
 )
 
 
 criaCartao(
     'Língua Portuguesa',
-    ' Hiperbole',
+    ' O que é Hiperbole?',
     'Exagero intencional para dar ênfase.'
 )
 
 criaCartao(
     'Língua Portuguesa',
-    'Personificação (ou Prosopopeia)',
+    'O que é Personificação (ou Prosopopeia)?',
     'Atribuição de características humanas a seres inanimados ou irracionais.'
 )
 
 criaCartao(
     'Língua Portuguesa',
-    'Ironia',
+    'O que é Ironia?',
     'Afirmação contrária ao que se quer dizer, com tom de crítica ou sarcasmo.'
 )
 
